@@ -1,4 +1,4 @@
-datasciencecoursera
+﻿datasciencecoursera
 ===================
 
 Repository for the course The Data Scientist’s Toolbox
@@ -13,7 +13,7 @@ I will try to keep this place up to date and give myself a little of practices w
 
 - This _README.md_ to be shown as default in my Gith directory 
 - The _HelloWorld.Rmd_ file for the first submission of the course, pretty good.
-- The _HelloWorld.md_, not really interesting at all
+- The _simpleHelloWorld.md_, not really interesting at all
 - The _HelloWorld.pdf_, an automatic nice looking output (if you have a LaTeX installation like I do.)
 - Another output _HelloWorld.html_ from my RStudio installation
 
