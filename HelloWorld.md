@@ -1,13 +1,4 @@
----
-title: "HelloWorld.md"
-author: "Eduardo Díez"
-date: "Thursday, April 10, 2014"
-output: 
-  pdf_document:
-    keep_tex: yes
----
-
-## This is a markdown file
+﻿## This is a markdown file
 
 
 ![plot of HelloWorld](figures/myOutput.pdf) 
