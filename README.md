@@ -11,6 +11,7 @@ All the material that I have to submit into the COURSERA plattform for the refer
 
 I will try to keep this place up to date and give myself a little of practices with markdown, looking forward to use it at the final project.
 
+- This README.md to to shown as default in my Gith directory 
 - HelloWorld.Rmd, pretty good.
 - HelloWorld.md, not really interesting at all
 - HelloWorld.pdf, an automatic nice looking output (if you have $\LaTeX$)
