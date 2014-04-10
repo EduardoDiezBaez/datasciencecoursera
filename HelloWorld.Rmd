@@ -1,0 +1,37 @@
+---
+title: "HelloWorld.md"
+author: "Eduardo Díez"
+date: "Thursday, April 10, 2014"
+output: 
+  pdf_document:
+    keep_tex: yes
+---
+
+## This is a markdown file
+
+
+```{r HelloWorld, echo=FALSE}
+
+# ToDo list for the submission:
+
+# 1. Install R                                            - OK
+# 2. Install Rstudio                                      - OK
+# 3. Open Rstudio and take a screenshot                   - OK
+# 4. Submit a screenshot of Rstudio open on your screen.  - OK
+# and a little checking script to test ...
+
+myfit = lm(dist~speed, data = cars) 
+par(mfrow=c(2,2))
+with(cars, plot(speed, dist, panel.last = abline(myfit), 
+                main="My Fit"))
+abline(myfit)
+qqnorm(myfit$residuals)
+qqline(myfit$residuals)
+hist(myfit$residuals, main="Histogram of Residuals",
+     xlab="Residuals")
+plot(myfit$residuals~cars$speed, main="Residuals",
+     xlab="Speed",ylab="Residuals");abline(h=0)
+summary(myfit)
+
+```
+
