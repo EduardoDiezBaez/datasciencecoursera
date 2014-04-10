@@ -15,5 +15,8 @@ I will try to keep this place up to date and give myself a little of practices w
 - The _HelloWorld.Rmd_ file for the first submission of the course, pretty good.
 - The _HelloWorld.md_, not really interesting at all
 - The _HelloWorld.pdf_, an automatic nice looking output (if you have a LaTeX installation like I do.)
-- Another output _HelloWorld.html_ form my RStudio installation
+- Another output _HelloWorld.html_ from my RStudio installation
 
+## Notes
+
+I already installed R and RStudio and I add the libraries knitr, markdown and rmarkdown. Also I already had MyKTeX installed
